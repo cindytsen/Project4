@@ -7,3 +7,7 @@ body {
 h1 {
     font-family: 'Abril Fatface', cursive;
 }
+
+.jumbotron {
+    background-color: rgba(216, 112, 147, 0);
+}
